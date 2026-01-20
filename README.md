@@ -56,3 +56,6 @@ To explain the complex XGBoost model, the team applied **SHAP (SHapley Additive 
 
 * **Sensitivity:** The final optimized model achieved a **95% recall**, successfully catching the vast majority of potential churners.
 
+
+Dataset and Problem Scenario Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
